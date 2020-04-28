@@ -1,0 +1,2 @@
+# nuomena
+computing_the_human_condition
